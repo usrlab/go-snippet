@@ -1,2 +1,2 @@
 # go
-go gist
+go gist snippet
